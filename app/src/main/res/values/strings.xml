@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LightSwitches</string>
+    <string name="MQTTUrl">tcp://haiwa80.cloudapp.net:1883</string>
+    <string name="StatusUrl">http://biomedica-bioinformatics.azurewebsites.net/api/IOT_STATUS_MST</string>
+</resources>
