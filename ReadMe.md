@@ -1,5 +1,5 @@
 **LightSwitches**
-This is a simple demo application that demonstrate the integration of an  android phone
+This is a simple Android demo application that demonstrate the integration of an  android phone
 to automate my home. This is just a demo application.
 
 **Install**
